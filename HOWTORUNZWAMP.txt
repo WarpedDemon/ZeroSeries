@@ -1,0 +1,7 @@
+run zwamp
+
+http://localhost/ZeroSeries/index.php
+
+if not cry hard and try restart zwamp 
+
+:P
